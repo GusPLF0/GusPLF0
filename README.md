@@ -19,7 +19,7 @@
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusPLF0&show_icons=true&theme=onedark)
 
 
-❤ Apaixonado em resolver desafios e ajudar pessoas usando a tecnologia ❤
+❤ Apaixonado em resolver desafios e ajudar pessoas usando a tecnologia ❤ <br/>
 ❤ Passionate about solving challenges and  helping people using technology ❤
 
 
