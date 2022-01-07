@@ -5,7 +5,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pedro-2b499a226/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavo.p_/)
-![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): gpedr56@gmail.com
 ## Tecnologias
 
 <div style = "display: inline_block"></br>
@@ -18,3 +17,10 @@
 <br/>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusPLF0&show_icons=true&theme=onedark)
+
+
+❤ Apaixonado em resolver desafios e ajudar pessoas usando a tecnologia ❤
+❤ Passionate about solving challenges and  helping people using technology ❤
+
+
+## Atualmente estudando e buscando melhorar !
