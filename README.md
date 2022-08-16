@@ -22,4 +22,4 @@
 ❤ Passionate about solving challenges and  helping people using technology and the data ❤
 
 
-## Atualmente estudando e buscando melhorar !
+
