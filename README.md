@@ -1,25 +1,19 @@
-### Olá. meu nome é Gustavo 😸
-### Atualmente estudando para ser um analista de dados
+<h1 align="center">Olá, eu sou o Gustavo</h1>
+<h3 align="center">Apaixonado em ajudar pessoas e negócios usando análise de dados nas mais diversas áreas</h3>
 
+- 🔭 Atualmente estudando e melhorando minhas skills de Data Analyst **Cursando Certificado Profissional Análise de dados do Google**
 
-## Contato
+- 🌱 Atualmente aprendendo **Tableau e Python**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pedro-2b499a226/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavo.p_/)
-## Tecnologias
+- 📫 Me contate pelo email: **gpedr56@gmail.com**
 
-<div style = "display: inline_block"></br>
-   <img align="center" alt= "MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <img align="center" alt= "Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/gustavopedro0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavopedro0" height="30" width="40" /></a>
+<a href="https://instagram.com/_gustavo.p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gustavo.p_" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusPLF0&show_icons=true&theme=onedark)
-
-
-❤ Apaixonado em resolver desafios e ajudar pessoas usando a tecnologia e os dados ❤ <br/>
-❤ Passionate about solving challenges and  helping people using technology and the data ❤
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusplf0&show_icons=true&locale=en&layout=compact" alt="gusplf0" /></p>
