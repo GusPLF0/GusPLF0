@@ -1,6 +1,7 @@
 Olá! Eu sou o Gustavo e sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Aqui no meu perfil do GitHub, você pode encontrar alguns dos meus projetos pessoais e profissionais mais recentes.
 
-Sobre mim
+Sobre mim:
+
 Atualmente estou me aventurando no mundo de Java e cursando o 5° semestre de Ciências da computação, possui conhecimentos de Programação Orientada a Objetos, Programação funcional, Estrutura de Dados, entre outras coisas. Atualmente estudando Spring e Spring Boot para criação de aplicações WEB. Possuo conhecimento(básico para intermediário) também nas linguagens JavaScript, C e Python.
 
 Obrigado por visitar meu perfil do GitHub! Espero que você goste do que vê.
