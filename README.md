@@ -2,7 +2,7 @@ Olá! Eu sou o Gustavo e sou um desenvolvedor de software apaixonado por criar s
 
 Sobre mim:
 
-Atualmente estou me aventurando no mundo de Java e cursando o 5° semestre de Ciências da computação, possuo conhecimentos de Programação Orientada a Objetos, Programação funcional, Estrutura de Dados, entre outras coisas. Atualmente estudando Spring e Spring Boot para criação de aplicações WEB. Possuo conhecimento(básico para intermediário) também nas linguagens JavaScript, C e Python.
+Aventureiro do mundo Java e cursando o 5° semestre de Ciências da computação, possuo conhecimentos de Programação Orientada a Objetos, Programação funcional, Estrutura de Dados, entre outras coisas. Atualmente estudando Spring e Spring Boot para criação de aplicações WEB. Possuo conhecimento(básico/intermediário) também nas linguagens JavaScript, C e Python.
 
 Obrigado por visitar meu perfil do GitHub! Espero que você goste do que vê.
 
