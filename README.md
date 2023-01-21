@@ -13,7 +13,9 @@ Thank you for visiting my GitHub profile! I hope you enjoy browsing my projects.
 
 Feel free to connect with me and don't hesitate to reach out if you have any questions or comments.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusplf)](https://www.linkedin.com/in/gusplf)
+<div align="left"><a href="https://linkedin.com/in/gusplf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gusplf" height="30" width="40" /></a></div>
+
+
 
 
 <br>
