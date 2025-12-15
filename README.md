@@ -4,7 +4,7 @@ My name is Gustavo and I am a software developer passionate about creating innov
 
 ## About me
 
-- I am an adventurer in the Java world and currently pursuing my 5th semester in Computer Science.
+- I am an adventurer in the Java world. I'm graduated in Computer Science.
 - I have knowledge in Object-Oriented Programming, Functional Programming, Data Structures, and more.
 - Currently, I am studying Spring and Spring Boot for WEB application development.
 - I also have basic/intermediate skills in JavaScript, C, and Python.
